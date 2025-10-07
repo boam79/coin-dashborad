@@ -500,8 +500,8 @@ in the Software without restriction...
 
 프로젝트 관련 문의나 제안사항이 있으시면 언제든 연락주세요!
 
-- **이메일:** your.email@example.com
-- **GitHub:** [@yourusername](https://github.com/yourusername)
+- **이메일:** pjm7908@hanmail.net
+- **GitHub:** [@yourusername](https://github.com/boam79)
 
 ## 🔗 관련 링크
 
